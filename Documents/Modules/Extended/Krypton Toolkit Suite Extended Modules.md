@@ -1,4 +1,4 @@
-# <img src="https://github.com/Wagnerp/Krypton-Package-Statistics/blob/master/Assets/64%20x%2064/Extended%20Toolkit%20Icon.png?raw=true" /> Krypton Extended Toolkit Modules
+# <img src="https://github.com/Krypton-Suite/Krypton-Toolkit-Suite-Version-Dashboard/blob/main/Assets/64%20x%2064/Extended%20Toolkit%20Icon.png?raw=true" /> Krypton Extended Toolkit Modules
 
 ## Version Information
 
