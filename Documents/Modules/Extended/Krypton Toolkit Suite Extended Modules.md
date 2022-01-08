@@ -10,7 +10,7 @@
 ### Main Modules
 
 | Module Name | Current Version | Link |
-|---|---|---|---|
+|---|---|---|
 | <img src="https://img.shields.io/badge/Module-Buttons-yellow.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Buttons.Canary?label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Buttons.Canary/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Calendar-yellow.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Calendar.Canary?label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Calendar.Canary/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-CheckSum Tools-yellow.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.CheckSum.Tools.Canary?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.CheckSum.Tools.Canary/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
@@ -52,7 +52,7 @@
 ### Shared Modules
 
 | Module Name | Current Version | Link |
-|---|---|---|---|
+|---|---|---|
 | <img src="https://img.shields.io/badge/Module-Common-yellow.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Common.Canary?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Common.Canary/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Core-yellow.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Core.Canary?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Core.Canary/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Developer Utilities-yellow.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Developer.Utilities.Canary?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Developer.Utilities.Canary/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
@@ -72,7 +72,7 @@
 ### Main Modules
 
 | Module Name | Current Version | Link |
-|---|---|---|---|
+|---|---|---|
 | <img src="https://img.shields.io/badge/Module-Buttons-B19CD0.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Buttons?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Buttons/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Calendar-B19CD0.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Calendar?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Calendar/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-CheckSum Tools-B19CD0.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.CheckSum.Tools?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.CheckSum.Tools/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
@@ -114,7 +114,7 @@
 ### Shared Modules
 
 | Module Name | Current Version | Link |
-|---|---|---|---|
+|---|---|---|
 | <img src="https://img.shields.io/badge/Module-Common-B19CD0.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Common?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Common/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Core-B19CD0.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Core?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Core/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Developer Utilities-B19CD0.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.Suite.Extended.Developer.Utilities?label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Developer.Utilities/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
