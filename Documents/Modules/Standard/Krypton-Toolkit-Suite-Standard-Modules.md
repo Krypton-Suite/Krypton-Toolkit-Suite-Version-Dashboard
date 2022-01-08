@@ -51,5 +51,5 @@
 ## Themes
 
 | Module Name | Current Version | Link |
-|---|---|---|---|
+|---|---|---|
 | <img src="https://img.shields.io/badge/Module-Themes-orange.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Toolkit.Themes?label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Toolkit.Themes/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
