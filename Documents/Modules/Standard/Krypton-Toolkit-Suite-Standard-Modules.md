@@ -48,6 +48,18 @@
 
 ===============================================================================
 
+## LTS (Unsupported)
+
+| Module Name | Current Version | Link |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Module-Toolkit-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Toolkit.LTS?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Toolkit.LTS/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
+| <img src="https://img.shields.io/badge/Module-Docking-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Docking.LTS?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Docking.LTS/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
+| <img src="https://img.shields.io/badge/Module-Navigator-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Navigator.LTS?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Navigator.LTS/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
+| <img src="https://img.shields.io/badge/Module-Ribbon-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Ribbon.LTS?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Ribbon.LTS/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
+| <img src="https://img.shields.io/badge/Module-Workspace-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Workspace.LTS?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Workspace.LTS/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
+
+===============================================================================
+
 ## Themes
 
 | Module Name | Current Version | Link |
