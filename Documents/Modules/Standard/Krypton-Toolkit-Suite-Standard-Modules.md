@@ -8,7 +8,7 @@
 * Jump to [Canary](#Canary)
 * Jump to [Stable](#Stable)
 * Jump to [Signed](#Signed)
-* Jump to [LTS](#LTS-(Unsupported))
+* Jump to [LTS](#LTS-Unsupported)
 * Jump to [Themes](#Themes)
 
 ===============================================================================
@@ -55,7 +55,7 @@ Go to [Top](#Channel-Releases)
 
 ================================================================================
 
-# Stable (Signed)
+# Stable Signed
 
 | Module Name | Current Version | Link |
 |---|---|---|
@@ -69,7 +69,7 @@ Go to [Top](#Channel-Releases)
 
 ===============================================================================
 
-## LTS (Unsupported)
+## LTS Unsupported
 
 | Module Name | Current Version | Link |
 |---|---|---|
