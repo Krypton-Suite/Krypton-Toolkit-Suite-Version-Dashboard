@@ -8,7 +8,8 @@
 * Jump to [Canary](#Canary)
 * Jump to [Stable](#Stable)
 * Jump to [Signed](#Signed)
-* Jump to [LTS](#LTS)
+* Jump to [LTS](#LTS-(Unsupported))
+* Jump to [Themes](#Themes)
 
 ===============================================================================
 
