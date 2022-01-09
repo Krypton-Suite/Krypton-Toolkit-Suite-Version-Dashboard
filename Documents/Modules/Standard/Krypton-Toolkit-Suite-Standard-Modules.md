@@ -23,6 +23,8 @@
 | <img src="https://img.shields.io/badge/Module-Ribbon-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Ribbon.Nightly?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Ribbon.Nightly/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 | <img src="https://img.shields.io/badge/Module-Workspace-000080.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/vpre/Krypton.Workspace.Nightly?color=informational&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Workspace.Nightly/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
 
+Compare [Nightly-&-Canary](https://github.com/Krypton-Suite/Standard-Toolkit/Compare/canary...alpha)
+
 Go to [Top](#Channel-Releases)
 
 ===============================================================================
