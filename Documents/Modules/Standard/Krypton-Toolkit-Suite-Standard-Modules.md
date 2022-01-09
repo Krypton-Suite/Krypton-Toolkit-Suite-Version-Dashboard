@@ -55,7 +55,7 @@ Go to [Top](#Channel-Releases)
 
 ================================================================================
 
-# Stable Signed
+# Signed
 
 | Module Name | Current Version | Link |
 |---|---|---|
