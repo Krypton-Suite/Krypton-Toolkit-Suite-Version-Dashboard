@@ -10,6 +10,7 @@
 * Jump to [Signed](#Signed)
 * Jump to [LTS](#LTS-Unsupported)
 * Jump to [Themes](#Themes)
+* Jump to [Links](#Links)
 
 ===============================================================================
 
@@ -102,5 +103,15 @@ Go to [Top](#Channel-Releases)
 | Module Name | Current Version | Link |
 |---|---|---|
 | <img src="https://img.shields.io/badge/Module-Themes-orange.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Toolkit.Themes?label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Toolkit.Themes/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
+
+Go to [Top](#Channel-Releases)
+
+===============================================================================
+
+## Links
+
+| Toolkit Demos | Toolkit Examples |
+|---|---|
+| <a href="https://github.com/Krypton-Suite/Standard-Toolkit-Demos/releases"><img src="https://img.shields.io/badge/Download-Toolkit%20Example%20Package-00ACED" /></a> | <a href="https://github.com/Krypton-Suite/Standard-Toolkit-Demos"><img src="https://img.shields.io/badge/View-Toolkit%20Examples-00ACED" /></a> |
 
 Go to [Top](#Channel-Releases)
