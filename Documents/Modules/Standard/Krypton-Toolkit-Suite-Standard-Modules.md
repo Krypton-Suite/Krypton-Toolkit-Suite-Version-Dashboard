@@ -1,4 +1,4 @@
-## <img src="https://github.com/Krypton-Suite/Krypton-Toolkit-Suite-Version-Dashboard/blob/main/Assets/64%20x%2064/Standard%20Toolkit%20Icon.png?raw=true" /> .NET Standard Toolkit 5.500 (.NET Toolkit) Module Information
+## <img src="https://github.com/Krypton-Suite/Krypton-Toolkit-Suite-Version-Dashboard/blob/main/Assets/64%20x%2064/Standard%20Toolkit%20Icon.png?raw=true" /> Krypton Standard Toolkit Modules
 
 ===============================================================================
 
