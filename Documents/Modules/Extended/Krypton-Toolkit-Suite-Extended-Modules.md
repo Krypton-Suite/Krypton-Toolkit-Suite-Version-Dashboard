@@ -5,6 +5,7 @@
 - Skip to [Nightly](#Nightly-Versions)
 - Skip to [Canary](#Canary-Versions)
 - Skip to [Stable](#Stable-Versions)
+- Skip to [Signed](#Signed-Versions)
 
 ## Nightly Versions
 
