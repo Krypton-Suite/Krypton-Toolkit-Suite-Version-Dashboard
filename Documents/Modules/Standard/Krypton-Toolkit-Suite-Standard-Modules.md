@@ -7,7 +7,6 @@
 * Jump to [Nightly](#Nightly)
 * Jump to [Canary](#Canary)
 * Jump to [Stable](#Stable)
-* Jump to [Signed](#Signed)
 * Jump to [LTS](#LTS-Unsupported)
 * Jump to [Themes](#Themes)
 * Jump to [Links](#Links)
@@ -28,7 +27,7 @@ Read the latest [release notes](https://github.com/Krypton-Suite/Standard-Toolki
 
 Compare [Nightly & Canary](https://github.com/Krypton-Suite/Standard-Toolkit/compare/canary...alpha)
 
-Compare [Nightly & Master/Signed](https://github.com/Krypton-Suite/Standard-Toolkit/compare/master...alpha)
+Compare [Nightly & Master](https://github.com/Krypton-Suite/Standard-Toolkit/compare/master...alpha)
 
 Go to [Top](#Channel-Releases)
 
@@ -46,7 +45,7 @@ Go to [Top](#Channel-Releases)
 
 Read the latest [release notes](https://github.com/Krypton-Suite/Standard-Toolkit/blob/canary/Documents/Help/Changelog.md)
 
-Compare [Canary & Master/Signed](https://github.com/Krypton-Suite/Standard-Toolkit/compare/master...canary)
+Compare [Canary & Master](https://github.com/Krypton-Suite/Standard-Toolkit/compare/master...canary)
 
 Go to [Top](#Channel-Releases)
 
@@ -67,22 +66,6 @@ Read the latest [release notes](https://github.com/Krypton-Suite/Standard-Toolki
 Go to [Top](#Channel-Releases)
 
 ================================================================================
-
-# Signed
-
-| Module Name | Current Version | Link |
-|---|---|---|
-| <img src="https://img.shields.io/badge/Module-Toolkit-84d658.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Toolkit?color=64a343&label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Toolkit.Signed/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
-| <img src="https://img.shields.io/badge/Module-Docking-84d658.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Docking?color=64a343&label=Version&logo=nuget&style=flat-square) | <a href="https://www.nuget.org/packages/Krypton.Docking.Signed/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
-| <img src="https://img.shields.io/badge/Module-Navigator-84d658.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Navigator?color=64a343&label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Navigator.Signed/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
-| <img src="https://img.shields.io/badge/Module-Ribbon-84d658.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Ribbon?color=64a343&label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Ribbon.Signed/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
-| <img src="https://img.shields.io/badge/Module-Workspace-84d658.svg?style=flat-square" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Workspace?color=64a343&label=Version&logo=nuget&style=flat-square) |  <a href="https://www.nuget.org/packages/Krypton.Workspace.Signed/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg?style=flat-square" /></a> |
-
-Read the latest [release notes](https://github.com/Krypton-Suite/Standard-Toolkit/blob/master/Documents/Help/Changelog.md)
-
-Go to [Top](#Channel-Releases)
-
-===============================================================================
 
 ## LTS (Unsupported)
 
